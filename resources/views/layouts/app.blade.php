@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    APP de tareas de Eddy Torres - 1104732043
+                    APP de tareas de Eddy, Carlos, Nestor
                 </a>
             </div>
 
